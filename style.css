@@ -2,9 +2,10 @@ html {
   height: 100%;
   width: 100%;
 } 
+
 h2 {
   color: #3c251a;
   padding: 120px;
   background-color: #f88d54;
-  font-size: .5em;
+  font-size: 2vw;
 }
